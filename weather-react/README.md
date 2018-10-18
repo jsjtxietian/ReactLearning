@@ -1,0 +1,1 @@
+Decribes how to use react and redux to fetch api 
